@@ -1,0 +1,7 @@
+my_spending_dashboard/
+│── streamlit_app.py
+│── pages/
+│     ├── 1_📊_EDA_Dashboard.py
+│     ├── 2_📈_Financial_Metrics.py
+│     ├── 3_💰_Category_Analysis.py
+│── monthly_spending_dataset_2020_2025.csv
